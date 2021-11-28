@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![Profile views](https://gpvc.arturio.dev/gmukul01)
+
+### Hi there 👋
 
 I am working as Lead UI developer in Medly with over 7+ years of experience in building Web applications(using ReactJS, Redux, Typescript & Javascript), Authentication/Authorization (using Okta), Backend applications (using ExpressJS) and Automation testing suite (using Cypress). I've majorly worked on data-heavy, performant and responsive web platforms following agile practices like TDD and CI/CD, and focusing on simple, clean code to build a quality product. In my work as a Front End Developer, I have created multiple Web applications and Component Libraries using React.
 
