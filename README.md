@@ -1,12 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/gmukul01)
-
 ### Hi there 👋
 
 I am working as Staff Engineer in Medly with 8 years of experience in building Web applications(using ReactJS, Redux, Typescript & Javascript), Authentication/Authorization (using Okta), Backend applications (using ExpressJS) and Automation testing suite (using Cypress). I've majorly worked on data-heavy, performant and responsive web platforms following agile practices like TDD and CI/CD, and focusing on simple, clean code to build a quality product. In my work as a Front End Developer, I have created multiple Web applications and Component Libraries using React.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmukul01&count_private=true" />
-</a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmukul01&layout=compact" />
